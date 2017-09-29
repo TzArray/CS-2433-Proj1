@@ -1,0 +1,16 @@
+Script started on Thu 14 Sep 2017 07:26:04 PM CDT
+[4mfox04[24m:[1m~/courses/cs3423/assignments/Proj1[0m> proj1.bash < p1Input.txt 
+
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+
+Enter one of the following actions or press CTRL-D to exit.
+C - create a customer file
+P - accept a customer payment
+F - find customer by apartment number
+[4mfox04[24m:[1m~/courses/cs3423/assignments/Proj1[0m> exit
+exit
+
+Script done on Thu 14 Sep 2017 07:26:16 PM CDT
